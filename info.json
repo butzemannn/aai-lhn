@@ -4,5 +4,5 @@
   "title": "A great logistic hauler network mod",
   "author": "Behlen & butzemannn",
   "factorio_version": "1.1",
-  "dependencies": []
+  "dependencies": ["aai-programmable-vehicles", "aai-programmable-structure"]
 }
